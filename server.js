@@ -16,7 +16,7 @@ app.use(express.urlencoded({ extended: false }));
 app.get('/', async (req, res) => {
     const shortulrs = await ShortUrl.find();
     res.render('index', {shortUrls: shortulrs});
-
+//
 
 })
 
