@@ -14,7 +14,7 @@ This is a simple URL shortener built with Node.js and MongoDB. It allows users t
 # Technologies Used
 - Node.js
 - MongoDB
-- Express
+- Express  
 - EJS
 # Developer
 Isaac Tonyloi
