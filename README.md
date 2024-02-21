@@ -3,7 +3,7 @@ This is a simple URL shortener built with Node.js and MongoDB. It allows users t
 
 # Installation
 - Clone this repository
-- Install dependencies using npm install
+- Install dependencies using npm install  
 - Start the server using npm start
 # Usage
 - Navigate to the root route of the application (http://localhost:3000/)
