@@ -6,7 +6,7 @@ This is a simple URL shortener built with Node.js and MongoDB. It allows users t
 - Install dependencies using npm install  
 - Start the server using npm start
 # Usage
-- Navigate to the root route of the application (http://localhost:3000/)
+- Navigate to the root route of the application (http://localhost:3000/)   
 - Enter a URL into the input field and submit the form   
 - The server will create a shortened URL and display it on the page
 - Click the shortened URL to be redirected to the original URL  
