@@ -12,7 +12,7 @@ This is a simple URL shortener built with Node.js and MongoDB. It allows users t
 - Click the shortened URL to be redirected to the original URL  
 - The server will track the number of clicks for each shortened URL, which can be viewed on the homepage.
 # Technologies Used
-- Node.js
+- Node.js   
 - MongoDB   
 - Express  
 - EJS  
